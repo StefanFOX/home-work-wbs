@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "model": "CAT 320",
+      "manufacturer": "Caterpillar",
+      "year": 2022,
+      "weight_tons": 22,
+      "engine_power_hp": 172,
+      "bucket_capacity_m3": 1.2,
+      "max_digging_depth_m": 6.7,
+      "fuel_type": "Diesel"
+    },
+    {
+      "id": 2,
+      "model": "Komatsu PC210-10",
+      "manufacturer": "Komatsu",
+      "year": 2021,
+      "weight_tons": 21,
+      "engine_power_hp": 165,
+      "bucket_capacity_m3": 1.0,
+      "max_digging_depth_m": 6.5,
+      "fuel_type": "Diesel"
+    },
+    {
+      "id": 3,
+      "model": "Hitachi ZX350LC-6",
+      "manufacturer": "Hitachi",
+      "year": 2023,
+      "weight_tons": 35,
+      "engine_power_hp": 271,
+      "bucket_capacity_m3": 1.9,
+      "max_digging_depth_m": 7.8,
+      "fuel_type": "Diesel"
+    }
+  ]
